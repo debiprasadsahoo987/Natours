@@ -5,3 +5,5 @@ https://sleepy-newton-4dede6.netlify.app
 
 To install the dependencies type the command
 "npm install" in the terminal at Natours directory
+
+switch to masters branch for the scss files.
